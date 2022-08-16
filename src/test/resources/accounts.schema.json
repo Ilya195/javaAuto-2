@@ -28,7 +28,7 @@
       },
       "currency": {
         "type": "string",
-       "maxProperties": "RUB, USD"
+       "enum": "RUB, USD"
       }
     }
   }
